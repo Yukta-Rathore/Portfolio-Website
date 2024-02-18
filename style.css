@@ -14,7 +14,7 @@ body{
 #header{
     /* width: 100%;*/
     height: 100vh;
-    background-image: url(images/yukta.jpeg);
+    background-image: url(yukta.jpeg);
     background-repeat: no-repeat;
     background-size: 480px; 
     background-position: right bottom; 
